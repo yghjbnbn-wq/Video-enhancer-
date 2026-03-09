@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "UltraScaler"
-include ':app'
+include(":app")
